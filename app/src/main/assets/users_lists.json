@@ -1,0 +1,41 @@
+{
+  "users": [
+     {
+	"id": "1001",
+	"name": "Ravivarma",
+	"gender": "male",
+	"email": "ravi.varma@gmail.com",
+	"contact": {
+		"mobile": "9398329479",
+		"home": "123456",
+		"office": "9876"
+	}
+
+     },
+      {
+	"id": "1002",
+	"name": "varma",
+	"gender": "male",
+	"email": "varma@gmail.com",
+	"contact": {
+		"mobile": "939479",
+		"home": "12356",
+		"office": "569876"
+	}
+
+     },
+	 {
+	"id": "1003",
+	"name": "Ravi",
+	"gender": "male",
+	"email": "ravi@gmail.com",
+	"contact": {
+		"mobile": "939832943",
+		"home": "1234560",
+		"office": "987600"
+		}
+
+     }
+	]
+
+}
